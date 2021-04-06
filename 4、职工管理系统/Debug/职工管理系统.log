@@ -1,0 +1,10 @@
+﻿  boss.cpp
+  employee.cpp
+  manager.cpp
+  worker.cpp
+  workspace.cpp
+C:\Users\Maxtropy\OneDrive\文档\4、C++学习\onedrive_git_saveproject\4、职工管理系统\workspace.cpp(324,7): warning C4101: “id”: 未引用的局部变量
+  职工管理系统.cpp
+  正在生成代码...
+C:\Users\Maxtropy\OneDrive\文档\4、C++学习\onedrive_git_saveproject\4、职工管理系统\workspace.cpp(403,6): warning C4101: “tempid”: 未引用的局部变量
+  职工管理系统.vcxproj -> C:\Users\Maxtropy\OneDrive\文档\4、C++学习\onedrive_git_saveproject\4、职工管理系统\Debug\职工管理系统.exe
