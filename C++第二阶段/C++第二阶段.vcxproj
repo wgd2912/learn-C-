@@ -123,6 +123,47 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="main.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1.1引用的基本使用.cpp" />
+    <ClCompile Include="1.2引用做函数参数.cpp" />
+    <ClCompile Include="1.3常量引用.cpp" />
+    <ClCompile Include="2.1函数默认参数.cpp" />
+    <ClCompile Include="2.2函数重载.cpp" />
+    <ClCompile Include="3.1.1封装.cpp" />
+    <ClCompile Include="3.1.2小项目.cpp" />
+    <ClCompile Include="3.2.1构造函数和析构函数.cpp" />
+    <ClCompile Include="3.2.2拷贝构造函数调用时机.cpp" />
+    <ClCompile Include="3.2.3深拷贝与浅拷贝.cpp" />
+    <ClCompile Include="3.2.4初始化列表.cpp" />
+    <ClCompile Include="3.2.5类对象作为类成员.cpp" />
+    <ClCompile Include="3.2.6静态成员.cpp" />
+    <ClCompile Include="3.3.1C++对象模型和this指针.cpp" />
+    <ClCompile Include="3.4.1友元.cpp" />
+    <ClCompile Include="3.5.1加号运算符重载.cpp" />
+    <ClCompile Include="3.5.2左移运算符重载.cpp" />
+    <ClCompile Include="3.5.3递增运算符重载.cpp" />
+    <ClCompile Include="3.5.4赋值运算符重载.cpp" />
+    <ClCompile Include="3.5.5关系运算符重载.cpp" />
+    <ClCompile Include="3.5.6函数调用运算符重载.cpp" />
+    <ClCompile Include="3.6.1继承的基本语法.cpp" />
+    <ClCompile Include="3.6.2继承方式.cpp" />
+    <ClCompile Include="3.6.3继承中的对象模型.cpp" />
+    <ClCompile Include="3.6.4继承中构造和析构顺序.cpp" />
+    <ClCompile Include="3.6.5继承同名成员处理方式.cpp" />
+    <ClCompile Include="3.6.6继承同名静态成员处理方式.cpp" />
+    <ClCompile Include="3.6.7多继承语法.cpp" />
+    <ClCompile Include="3.6.8菱形继承.cpp" />
+    <ClCompile Include="3.7.1多态的基本概念.cpp" />
+    <ClCompile Include="3.7.2多态-小项目.cpp" />
+    <ClCompile Include="3.7.3纯虚函数和抽象类.cpp" />
+    <ClCompile Include="3.7.4多态案例二-制作饮品.cpp" />
+    <ClCompile Include="3.7.5虚析构和纯虚析构.cpp" />
+    <ClCompile Include="3.7.6小项目-电脑组装.cpp" />
+    <ClCompile Include="4.1文本文件.cpp" />
+    <ClCompile Include="4.2二进制文件.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

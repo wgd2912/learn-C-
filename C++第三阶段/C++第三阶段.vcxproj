@@ -123,6 +123,41 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="1.2.6类模板成员函数类外实现.hpp" />
+    <ClInclude Include="1.2.8类模板案例.hpp" />
+    <ClInclude Include="main.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1.1.1函数模板.cpp" />
+    <ClCompile Include="1.1.2普通函数与函数模板的调用规则.cpp" />
+    <ClCompile Include="1.1.3模板的局限性.cpp" />
+    <ClCompile Include="1.2.1类模板.cpp" />
+    <ClCompile Include="1.2.2类模板和函数模板的区别.cpp" />
+    <ClCompile Include="1.2.3类模板中成员函数创建时机.cpp" />
+    <ClCompile Include="1.2.4类模板对象做函数参数.cpp" />
+    <ClCompile Include="1.2.5类模板与继承.cpp" />
+    <ClCompile Include="1.2.6类模板成员函数类外实现.cpp" />
+    <ClCompile Include="1.2.7类模板与友元.cpp" />
+    <ClCompile Include="1.2.8类模板案例.cpp" />
+    <ClCompile Include="2.1vector存放内置数据类型.cpp" />
+    <ClCompile Include="2.2vector存放自定义数据类型.cpp" />
+    <ClCompile Include="3.1.1string基本概念和赋值.cpp" />
+    <ClCompile Include="3.1.2string拼接.cpp" />
+    <ClCompile Include="3.1.3string查找和替换.cpp" />
+    <ClCompile Include="3.1.4string字符串比较.cpp" />
+    <ClCompile Include="3.1.5string存取.cpp" />
+    <ClCompile Include="3.1.6string插入和删除.cpp" />
+    <ClCompile Include="3.1.7string子串.cpp" />
+    <ClCompile Include="3.2.1vector构造函数.cpp" />
+    <ClCompile Include="3.2.2vector插入和删除.cpp" />
+    <ClCompile Include="3.3.1deque容器使用.cpp" />
+    <ClCompile Include="3.4.1评为打分.cpp" />
+    <ClCompile Include="3.5.1stack和queue.cpp" />
+    <ClCompile Include="3.6.1list.cpp" />
+    <ClCompile Include="3.7.1set容器.cpp" />
+    <ClCompile Include="3.8.1map和multimap容器.cpp" />
+    <ClCompile Include="4.1.1函数对象.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

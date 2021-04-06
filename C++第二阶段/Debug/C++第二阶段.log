@@ -1,0 +1,49 @@
+﻿  1.1引用的基本使用.cpp
+  1.2引用做函数参数.cpp
+  1.3常量引用.cpp
+  2.1函数默认参数.cpp
+  2.2函数重载.cpp
+  3.1.1封装.cpp
+  3.1.2小项目.cpp
+  3.2.1构造函数和析构函数.cpp
+  3.2.2拷贝构造函数调用时机.cpp
+  3.2.3深拷贝与浅拷贝.cpp
+  3.2.4初始化列表.cpp
+  3.2.5类对象作为类成员.cpp
+  3.2.6静态成员.cpp
+  3.3.1C++对象模型和this指针.cpp
+  3.4.1友元.cpp
+  3.5.1加号运算符重载.cpp
+  3.5.2左移运算符重载.cpp
+  3.5.3递增运算符重载.cpp
+  3.5.4赋值运算符重载.cpp
+  3.5.5关系运算符重载.cpp
+  正在生成代码...
+C:\Users\Maxtropy\OneDrive\文档\4、C++学习\onedrive_git_saveproject\C++第二阶段\3.2.4初始化列表.cpp(28,34): warning C4305: “参数”: 从“double”到“float”截断
+  正在编译...
+  3.5.6函数调用运算符重载.cpp
+  3.6.1继承的基本语法.cpp
+  3.6.2继承方式.cpp
+C:\Users\Maxtropy\OneDrive\文档\4、C++学习\onedrive_git_saveproject\C++第二阶段\1.2引用做函数参数.cpp(55): warning C4172: 返回局部变量或临时变量的地址: a
+C:\Users\Maxtropy\OneDrive\文档\4、C++学习\onedrive_git_saveproject\C++第二阶段\3.6.2继承方式.cpp(72,7): warning C4101: “s2”: 未引用的局部变量
+  3.6.3继承中的对象模型.cpp
+  3.6.4继承中构造和析构顺序.cpp
+  3.6.5继承同名成员处理方式.cpp
+C:\Users\Maxtropy\OneDrive\文档\4、C++学习\onedrive_git_saveproject\C++第二阶段\3.6.2继承方式.cpp(79,7): warning C4101: “s3”: 未引用的局部变量
+C:\Users\Maxtropy\OneDrive\文档\4、C++学习\onedrive_git_saveproject\C++第二阶段\3.6.5继承同名成员处理方式.cpp(12,1): warning C4305: “=”: 从“__int64”到“int”截断
+  3.6.6继承同名静态成员处理方式.cpp
+  3.6.7多继承语法.cpp
+  3.6.8菱形继承.cpp
+  3.7.1多态的基本概念.cpp
+  3.7.2多态-小项目.cpp
+  3.7.3纯虚函数和抽象类.cpp
+  3.7.4多态案例二-制作饮品.cpp
+  3.7.5虚析构和纯虚析构.cpp
+  3.7.6小项目-电脑组装.cpp
+  4.1文本文件.cpp
+C:\Users\Maxtropy\OneDrive\文档\4、C++学习\onedrive_git_saveproject\C++第二阶段\3.6.5继承同名成员处理方式.cpp(12,9): warning C4309: “=”: 截断常量值
+  4.2二进制文件.cpp
+  main.cpp
+  正在生成代码...
+C:\Users\Maxtropy\OneDrive\文档\4、C++学习\onedrive_git_saveproject\C++第二阶段\4.1文本文件.cpp(10,11): warning C4129: “O”: 不可识别的字符转义序列
+  C++第二阶段.vcxproj -> C:\Users\Maxtropy\OneDrive\文档\4、C++学习\onedrive_git_saveproject\C++第二阶段\Debug\C++第二阶段.exe

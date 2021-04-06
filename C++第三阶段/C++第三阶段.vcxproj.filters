@@ -13,5 +13,156 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="资源文件\1模板">
+      <UniqueIdentifier>{84ebd3f3-e474-45a0-a582-6802aa1c3afe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\2STL初识">
+      <UniqueIdentifier>{30cc9b40-d562-4d65-8f71-d5529da497f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\3STL-常用容器">
+      <UniqueIdentifier>{8f87ab0f-50f3-40ac-9f11-35e30e776eec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\4STL函数对象">
+      <UniqueIdentifier>{f9c2f959-a9ec-4621-8181-79c8e0294563}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\1模板\1.1函数模板">
+      <UniqueIdentifier>{d8fe18ac-a370-4b17-9647-551dd7e03c86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\1模板\1.2类模板">
+      <UniqueIdentifier>{8e4266bd-0597-4f36-a138-73ea055caac4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\3STL-常用容器\3.1string容器">
+      <UniqueIdentifier>{9d982f7e-fd91-4d0f-9879-b3c4b3f99244}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\3STL-常用容器\3.2vector容器">
+      <UniqueIdentifier>{c053b4ad-e849-4689-9e2d-7056d09a66af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\3STL-常用容器\3.3deque容器">
+      <UniqueIdentifier>{f80ffdf6-464f-406d-b824-278dd20a13df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\3STL-常用容器\3.4评委打分">
+      <UniqueIdentifier>{b9b25f2b-57cb-42e8-ab36-913b7ec0efb4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\3STL-常用容器\3.5堆和栈">
+      <UniqueIdentifier>{0f40b6df-3efa-488e-b522-8435f100b0f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\3STL-常用容器\3.6list容器">
+      <UniqueIdentifier>{950ed441-7f95-4af1-a203-fc21a409de52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\3STL-常用容器\3.7set/multiset容器">
+      <UniqueIdentifier>{7676a4bb-709a-4ffb-ae99-0373fd00646d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\3STL-常用容器\3.8map/multimap容器">
+      <UniqueIdentifier>{23cbb906-2863-4b84-b4a8-05e9a9562904}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\4STL函数对象\4.1函数对象">
+      <UniqueIdentifier>{f6ab9e1e-ccb5-439c-9f73-885f1b1ea1b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\5STL-常用算法">
+      <UniqueIdentifier>{6a3aad3f-fba7-4287-9a64-9341a71579c3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="1.2.6类模板成员函数类外实现.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="1.2.8类模板案例.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1.1.1函数模板.cpp">
+      <Filter>资源文件\1模板\1.1函数模板</Filter>
+    </ClCompile>
+    <ClCompile Include="1.1.2普通函数与函数模板的调用规则.cpp">
+      <Filter>资源文件\1模板\1.1函数模板</Filter>
+    </ClCompile>
+    <ClCompile Include="1.1.3模板的局限性.cpp">
+      <Filter>资源文件\1模板\1.1函数模板</Filter>
+    </ClCompile>
+    <ClCompile Include="1.2.1类模板.cpp">
+      <Filter>资源文件\1模板\1.2类模板</Filter>
+    </ClCompile>
+    <ClCompile Include="1.2.2类模板和函数模板的区别.cpp">
+      <Filter>资源文件\1模板\1.2类模板</Filter>
+    </ClCompile>
+    <ClCompile Include="1.2.3类模板中成员函数创建时机.cpp">
+      <Filter>资源文件\1模板\1.2类模板</Filter>
+    </ClCompile>
+    <ClCompile Include="1.2.4类模板对象做函数参数.cpp">
+      <Filter>资源文件\1模板\1.2类模板</Filter>
+    </ClCompile>
+    <ClCompile Include="1.2.5类模板与继承.cpp">
+      <Filter>资源文件\1模板\1.2类模板</Filter>
+    </ClCompile>
+    <ClCompile Include="1.2.6类模板成员函数类外实现.cpp">
+      <Filter>资源文件\1模板\1.2类模板</Filter>
+    </ClCompile>
+    <ClCompile Include="1.2.7类模板与友元.cpp">
+      <Filter>资源文件\1模板\1.2类模板</Filter>
+    </ClCompile>
+    <ClCompile Include="1.2.8类模板案例.cpp">
+      <Filter>资源文件\1模板\1.2类模板</Filter>
+    </ClCompile>
+    <ClCompile Include="2.1vector存放内置数据类型.cpp">
+      <Filter>资源文件\2STL初识</Filter>
+    </ClCompile>
+    <ClCompile Include="2.2vector存放自定义数据类型.cpp">
+      <Filter>资源文件\2STL初识</Filter>
+    </ClCompile>
+    <ClCompile Include="3.1.1string基本概念和赋值.cpp">
+      <Filter>资源文件\3STL-常用容器\3.1string容器</Filter>
+    </ClCompile>
+    <ClCompile Include="3.1.2string拼接.cpp">
+      <Filter>资源文件\3STL-常用容器\3.1string容器</Filter>
+    </ClCompile>
+    <ClCompile Include="3.1.3string查找和替换.cpp">
+      <Filter>资源文件\3STL-常用容器\3.1string容器</Filter>
+    </ClCompile>
+    <ClCompile Include="3.1.4string字符串比较.cpp">
+      <Filter>资源文件\3STL-常用容器\3.1string容器</Filter>
+    </ClCompile>
+    <ClCompile Include="3.1.5string存取.cpp">
+      <Filter>资源文件\3STL-常用容器\3.1string容器</Filter>
+    </ClCompile>
+    <ClCompile Include="3.1.6string插入和删除.cpp">
+      <Filter>资源文件\3STL-常用容器\3.1string容器</Filter>
+    </ClCompile>
+    <ClCompile Include="3.1.7string子串.cpp">
+      <Filter>资源文件\3STL-常用容器\3.1string容器</Filter>
+    </ClCompile>
+    <ClCompile Include="3.2.1vector构造函数.cpp">
+      <Filter>资源文件\3STL-常用容器\3.2vector容器</Filter>
+    </ClCompile>
+    <ClCompile Include="3.2.2vector插入和删除.cpp">
+      <Filter>资源文件\3STL-常用容器\3.2vector容器</Filter>
+    </ClCompile>
+    <ClCompile Include="3.3.1deque容器使用.cpp">
+      <Filter>资源文件\3STL-常用容器\3.3deque容器</Filter>
+    </ClCompile>
+    <ClCompile Include="3.4.1评为打分.cpp">
+      <Filter>资源文件\3STL-常用容器\3.4评委打分</Filter>
+    </ClCompile>
+    <ClCompile Include="3.5.1stack和queue.cpp">
+      <Filter>资源文件\3STL-常用容器\3.5堆和栈</Filter>
+    </ClCompile>
+    <ClCompile Include="3.6.1list.cpp">
+      <Filter>资源文件\3STL-常用容器\3.6list容器</Filter>
+    </ClCompile>
+    <ClCompile Include="3.7.1set容器.cpp">
+      <Filter>资源文件\3STL-常用容器\3.7set/multiset容器</Filter>
+    </ClCompile>
+    <ClCompile Include="3.8.1map和multimap容器.cpp">
+      <Filter>资源文件\3STL-常用容器\3.8map/multimap容器</Filter>
+    </ClCompile>
+    <ClCompile Include="4.1.1函数对象.cpp">
+      <Filter>资源文件\4STL函数对象\4.1函数对象</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
