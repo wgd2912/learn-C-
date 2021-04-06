@@ -163,7 +163,7 @@ void showmapmassage(multimap<int,mapworker>&m)
 
 void empgroup(void)
 {
-	srand((unsigned int)time(NULL));
+	/*srand((unsigned int)time(NULL));*/
 
 	vector<mapworker> v;
 	multimap<int, mapworker> m;

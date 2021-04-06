@@ -29,8 +29,7 @@ void listtest(void);
 void setest(void);
 void maptest(void);
 void func_obj(void);
-
-
+void predicatetest(void);
 
 
 

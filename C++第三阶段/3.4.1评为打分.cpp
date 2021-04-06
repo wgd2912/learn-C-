@@ -77,13 +77,12 @@ void shownameandscore(vector<player>& p)
 	for (vector<player>::iterator it = p.begin(); it != p.end(); it++)
 	{
 		cout << "姓名：" << it->name << " 得分：" << it->score << endl;
+		//cout << "--------------------------------------------------------" << endl;
 	}
 }
 
 void score_competition(void)
 {
-	//随机数种子
-	srand((unsigned int)time(NULL));
 	vector<player> p;
 	//创建选手
 	createplayer(p);

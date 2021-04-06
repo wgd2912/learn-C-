@@ -1,11 +1,13 @@
 #include <iostream>
 #include "main.h"
 using namespace std;
-
+#include <time.h>
 
 
 int main()
 {
+	srand((unsigned int)time(NULL));
+
 	/*函数调用区域--start*/
 	mytemplate();
 	Callrules();
@@ -36,7 +38,7 @@ int main()
 	setest();
 	maptest();
 	func_obj();
-
+	predicatetest();
 
 
 	/*函数调用区域--end*/

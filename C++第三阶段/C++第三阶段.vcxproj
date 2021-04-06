@@ -157,6 +157,7 @@
     <ClCompile Include="3.7.1set容器.cpp" />
     <ClCompile Include="3.8.1map和multimap容器.cpp" />
     <ClCompile Include="4.1.1函数对象.cpp" />
+    <ClCompile Include="4.2.1谓词.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

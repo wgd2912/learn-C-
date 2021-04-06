@@ -61,6 +61,12 @@
     <Filter Include="资源文件\5STL-常用算法">
       <UniqueIdentifier>{6a3aad3f-fba7-4287-9a64-9341a71579c3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="资源文件\4STL函数对象\4.2谓词">
+      <UniqueIdentifier>{8dd37cf2-f1a9-4949-bae7-7cc65af782d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\4STL函数对象\4.3内建函数对象">
+      <UniqueIdentifier>{2e94eef1-e89e-4d26-b917-83903202809d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1.2.6类模板成员函数类外实现.hpp">
@@ -163,6 +169,9 @@
     </ClCompile>
     <ClCompile Include="4.1.1函数对象.cpp">
       <Filter>资源文件\4STL函数对象\4.1函数对象</Filter>
+    </ClCompile>
+    <ClCompile Include="4.2.1谓词.cpp">
+      <Filter>资源文件\4STL函数对象\4.2谓词</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
