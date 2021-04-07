@@ -173,5 +173,11 @@
     <ClCompile Include="4.2.1谓词.cpp">
       <Filter>资源文件\4STL函数对象\4.2谓词</Filter>
     </ClCompile>
+    <ClCompile Include="4.3.1内建函数对象.cpp">
+      <Filter>资源文件\4STL函数对象\4.3内建函数对象</Filter>
+    </ClCompile>
+    <ClCompile Include="5.1常用算法.cpp">
+      <Filter>资源文件\5STL-常用算法</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

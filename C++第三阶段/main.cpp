@@ -39,7 +39,8 @@ int main()
 	maptest();
 	func_obj();
 	predicatetest();
-
+	functionaltest();
+	com_use_algorithm();
 
 	/*函数调用区域--end*/
 	system("pause");
