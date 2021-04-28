@@ -39,7 +39,6 @@ void com_use_algorithm(void)
 	end 结束迭代器
 	 _func 函数或者函数对象
 
-
 	transform(iterator beg1, iterator end1, iterator beg2, _func);//搬运容器到另一个容器中
 	beg1 源容器开始迭代器
 	end1 源容器结束迭代器
@@ -66,6 +65,14 @@ void com_use_algorithm(void)
 	for_each(v2.begin(), v2.end(), printf02());
 	cout << endl;
 
-	
+	//常用查找算法-find()
+	//查找指定元素，找到返回指定元素的迭代器，找不到返回结束迭代器end()
+	//函数原型-find(iterator beg,iterator end,value);
+	// beg 开始迭代器   end 结束迭代器   value 查找的元素
+
+
+
+
+
 }
 
