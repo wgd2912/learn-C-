@@ -41,7 +41,7 @@ int main()
 	predicatetest();
 	functionaltest();
 	com_use_algorithm();
-
+	comment_seek();
 	/*函数调用区域--end*/
 	system("pause");
 	return 0;

@@ -159,7 +159,8 @@
     <ClCompile Include="4.1.1函数对象.cpp" />
     <ClCompile Include="4.2.1谓词.cpp" />
     <ClCompile Include="4.3.1内建函数对象.cpp" />
-    <ClCompile Include="5.1常用算法.cpp" />
+    <ClCompile Include="5.1.1遍历算法.cpp" />
+    <ClCompile Include="5.2.1查找算法.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

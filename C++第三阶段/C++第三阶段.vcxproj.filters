@@ -67,6 +67,24 @@
     <Filter Include="资源文件\4STL函数对象\4.3内建函数对象">
       <UniqueIdentifier>{2e94eef1-e89e-4d26-b917-83903202809d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="资源文件\5STL-常用算法\5.1遍历算法">
+      <UniqueIdentifier>{d52dbffa-f482-4e2a-9615-b81a606ac303}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\5STL-常用算法\5.2查找算法">
+      <UniqueIdentifier>{3da04d82-a4c8-45d6-81b1-cd9a17c6f4b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\5STL-常用算法\5.3排序算法">
+      <UniqueIdentifier>{dce11f68-1300-47ec-9954-e8a061378d03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\5STL-常用算法\5.4拷贝和替换短发">
+      <UniqueIdentifier>{8bd9cb71-c816-4b96-b57c-f87f7e6cd2d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\5STL-常用算法\5.5算数生成算法">
+      <UniqueIdentifier>{369e7471-870e-493d-88ad-57b628e8a489}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\5STL-常用算法\5.6集合算法">
+      <UniqueIdentifier>{33b9c6a2-7ded-4b9d-ac72-937a743fc846}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1.2.6类模板成员函数类外实现.hpp">
@@ -176,8 +194,11 @@
     <ClCompile Include="4.3.1内建函数对象.cpp">
       <Filter>资源文件\4STL函数对象\4.3内建函数对象</Filter>
     </ClCompile>
-    <ClCompile Include="5.1常用算法.cpp">
-      <Filter>资源文件\5STL-常用算法</Filter>
+    <ClCompile Include="5.1.1遍历算法.cpp">
+      <Filter>资源文件\5STL-常用算法\5.1遍历算法</Filter>
+    </ClCompile>
+    <ClCompile Include="5.2.1查找算法.cpp">
+      <Filter>资源文件\5STL-常用算法\5.2查找算法</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

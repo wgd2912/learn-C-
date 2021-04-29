@@ -32,7 +32,7 @@ void func_obj(void);
 void predicatetest(void);
 void functionaltest(void);
 void com_use_algorithm(void);
-
+void comment_seek(void);
 
 
 
