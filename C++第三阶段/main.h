@@ -34,15 +34,3 @@ void functionaltest(void);
 void com_use_algorithm(void);
 void comment_seek(void);
 
-
-
-
-
-
-
-
-
-
-
-
-
