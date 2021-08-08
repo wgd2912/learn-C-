@@ -45,8 +45,7 @@ int main()
 	/*函数调用区域--end*/
 	system("pause");
 	return 0;
+
+
+
 }
-
-
-
-
